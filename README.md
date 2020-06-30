@@ -1,4 +1,4 @@
-## PREDICTING THE SALES OF VIDEO GAMES
+## [PREDICTING THE SALES OF VIDEO GAMES](https://github.com/PraharshaK/video-game-sales)
 
 ### Problem Statement
 
